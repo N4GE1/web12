@@ -1,0 +1,49 @@
+*{
+    .pacifico-regular {
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+.d1{
+    font-family: "Pacifico";
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:1530px;
+    height:720px;
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d2{
+    font-family: "Pacifico";
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:1530px;
+    height:720px;
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.d3{
+    font-family: "Pacifico";
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:1530px;
+    height:720px;
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
